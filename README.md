@@ -7,6 +7,7 @@
   <img width="800" alt="logo" src="Screenshot2.png"/>
 </p>
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 ![Vue.js](https://img.shields.io/badge/Vue.js%20-grey.svg?&style=flat&logo=vue.js&logoColor=#3fb27f&color=#33475b)
 ![HTML](https://img.shields.io/badge/HTML%20-light.svg?&style=flat&logo=html5&logoColor=%23F7DF1E&color=FF6347)
 ![CSS](https://img.shields.io/badge/CSS%20-light.svg?&style=flat&logo=css3&logoColor=%23F7DF1E&color=1E90FF)
